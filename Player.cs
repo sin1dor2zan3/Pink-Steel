@@ -51,15 +51,20 @@ public class Player : MonoBehaviour
         //Move the player
         transform.Translate(new Vector3(horizontalInput, verticalInput, 0) * Time.deltaTime * playerSpeed);
         //Player leaves the screen horizontally
-        if(transform.position.x > horizontalScreenLimit || transform.position.x <= -horizontalScreenLimit)
+        if (transform.position.x > horizontalScreenLimit || transform.position.x <= -horizontalScreenLimit)
         {
             transform.position = new Vector3(transform.position.x * -1, transform.position.y, 0);
         }
         //Player leaves the screen vertically
-        if(transform.position.y > verticalScreenLimit || transform.position.y <= -verticalScreenLimit)
+        if (transform.position.y > 3.25f)
         {
-            transform.position = new Vector3(transform.position.x, transform.position.y * -1, 0);
+            transform.position = new Vector3(transform.position.x, 3.25f, 0);
+        }
+        else if (transform.position.y < -6.5f)
+        {
+            transform.position = new Vector3(transform.position.x, -6.5f, 0);
         }
     }
 
 }
+
