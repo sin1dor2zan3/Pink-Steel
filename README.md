@@ -1,11 +1,13 @@
 # Pink-Steel
 
+
+Recording Link: https://youtu.be/-NKaDJp6luU
+
 Week 12 ~
 
 Haaris Patel: Task One (Score)  
 Sinclair Zanfardino: Task Two (Coin)
 
-Recording Link: https://youtu.be/-NKaDJp6luU
 
 
 
