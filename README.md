@@ -1,5 +1,10 @@
 # Pink-Steel
 
+Week 13 ~
+Haaris Patel: Task Two (Power-Up Sounds)  
+Sinclair Zanfardino: Task Two (Shield Power-Up)
+
+
 
 Recording Link: https://youtu.be/-NKaDJp6luU
 
@@ -7,7 +12,6 @@ Week 12 ~
 
 Haaris Patel: Task One (Score)  
 Sinclair Zanfardino: Task Two (Coin)
-
 
 
 
