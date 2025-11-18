@@ -3,9 +3,9 @@
 
 Week 13 ~
 
-Sinclair Zanfardino: Task Two (Shield Power-Up)
+Task Two (Shield Power-Up): Sinclair Zanfardino
 
-Haaris Patel: Task Two (Power-Up Sounds)  
+Task Two (Power-Up Sounds): Haaris Patel
 
 Recording Link: https://youtu.be/JQqLIH9Pqlk
 
