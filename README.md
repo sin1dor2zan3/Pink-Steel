@@ -1,21 +1,22 @@
 # Pink-Steel
 
+
 Week 13 ~
-Haaris Patel: Task Two (Power-Up Sounds)  
+
 Sinclair Zanfardino: Task Two (Shield Power-Up)
+Haaris Patel: Task Two (Power-Up Sounds)  
+Recording Link: https://youtu.be/JQqLIH9Pqlk
 
-
-
-Recording Link: https://youtu.be/-NKaDJp6luU
 
 Week 12 ~
 
-Haaris Patel: Task One (Score)  
-Sinclair Zanfardino: Task Two (Coin)
+Task One (Score): Haaris Patel
+Task Two (Coin): Sinclair Zanfardino
+Recording Link: https://youtu.be/-NKaDJp6luU
 
 
 
 Week 11 ~
 
-Haaris Patel: Task One (Left & Right Movement)  
-Sinclair Zanfardino: Task One (Vertical Movement Limits) & Task Two
+Task One (Left & Right Movement): Haaris Patel
+Task One (Vertical Movement Limits) & Task Two: Sinclair Zanfardino
